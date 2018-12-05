@@ -1,0 +1,180 @@
+country,Continent,pop_in_millions,gni_per_capita,health_exp_per_capita
+Afghanistan,Asia,35.5,570,183.9
+Albania,Europe,2.9,4320,773.7
+Algeria,Africa,41.3,3960,1031.2
+Angola,Africa,29.8,3330,195.5
+Antigua and Barbuda,North America,0.1,14170,1105.1
+Argentina,South America,44.3,13040,1389.8
+Armenia,Asia,2.9,4000,883.2
+Australia,Oceania,24.6,51360,4491.6
+Austria,Europe,8.8,45440,5138.2
+Azerbaijan,Asia,9.9,4080,1191.3
+"Bahamas, The",North America,0.4,29170,1699.1
+Bahrain,Asia,1.5,20240,2453.2
+Bangladesh,Asia,164.7,1470,88
+Barbados,North America,0.3,15540,1233.6
+Belarus,Europe,9.5,5280,1084.6
+Belgium,Europe,11.4,41790,4782.4
+Belize,North America,0.4,4390,523.7
+Benin,Africa,11.2,800,84.5
+Bhutan,Asia,0.8,2720,287.1
+Bolivia,South America,11.1,3130,445.8
+Bosnia and Herzegovina,Europe,3.5,4940,1101.8
+Botswana,Africa,2.3,6820,970
+Brazil,South America,209.3,8580,1391.5
+Brunei Darussalam,Asia,0.4,29600,2083.4
+Bulgaria,Europe,7.1,7760,1491.9
+Burkina Faso,Africa,19.2,610,96.1
+Burundi,Africa,10.9,290,63.7
+Cambodia,Asia,16,1230,209.6
+Cameroon,Africa,24.1,1360,162.8
+Canada,North America,36.7,42870,4600.1
+Central African Republic,Africa,4.7,390,31.9
+Chad,Africa,14.9,630,99.8
+Chile,South America,18.1,13610,1903.1
+China,Asia,1386.4,8690,762.2
+Colombia,South America,49.1,5830,852.8
+Comoros,Africa,0.8,760,121
+"Congo, Dem. Rep.",Africa,81.3,450,34
+"Congo, Rep.",Africa,5.3,1360,202.7
+Costa Rica,North America,4.9,11040,1286.5
+Cote d'Ivoire,Africa,24.3,1540,189.6
+Croatia,Europe,4.1,12430,1656.4
+Cyprus,Europe,1.2,23720,2136.8
+Czech Republic,Europe,10.6,18160,2469.9
+Denmark,Europe,5.8,55220,5083.2
+Djibouti,Africa,1,1880,146.7
+Dominica,North America,0.1,6990,585.7
+Dominican Republic,North America,10.8,6630,873.1
+Ecuador,South America,16.6,5890,980.2
+"Egypt, Arab Rep.",Africa,97.6,3010,495.2
+El Salvador,North America,6.4,3560,578.5
+Equatorial Guinea,Africa,1.3,7060,789.6
+Estonia,Europe,1.3,18190,1886.8
+Ethiopia,Africa,105,740,65.6
+Fiji,Oceania,0.9,4970,331.4
+Finland,Europe,5.5,44580,3996.4
+France,Europe,67.1,37970,4542.3
+Gabon,Africa,2,6610,480.9
+"Gambia, The",Africa,2.1,450,114.1
+Georgia,Asia,3.7,3790,717.7
+Germany,Europe,82.7,43490,5356.8
+Ghana,Africa,28.8,1490,249.3
+Greece,Europe,10.8,18090,2204.4
+Grenada,North America,0.1,9650,677.5
+Guatemala,North America,16.9,4060,443.9
+Guinea,Africa,12.7,820,57.2
+Guinea-Bissau,Africa,1.9,660,100.3
+Guyana,North America,0.8,4460,336.1
+Haiti,North America,11,760,120.1
+Honduras,North America,9.3,2250,353.4
+Hungary,Europe,9.8,12870,1912.1
+Iceland,Europe,0.3,60830,4116.2
+India,Asia,1339.2,1820,237.7
+Indonesia,Asia,264,3540,369.3
+"Iran, Islamic Rep.",Asia,81.2,5400,1261.7
+Iraq,Asia,38.3,4770,481
+Ireland,Europe,4.8,55290,5334.9
+Israel,Asia,8.7,37270,2819.1
+Italy,Europe,60.6,31020,3350.6
+Jamaica,North America,2.9,4750,511.4
+Japan,Asia,126.8,38550,4405.1
+Jordan,Asia,9.7,3980,568.1
+Kazakhstan,Asia,18,7890,903.3
+Kenya,Africa,49.7,1440,157.2
+Kiribati,Oceania,0.1,2780,151.8
+"Korea, Rep.",Asia,51.5,28380,2556
+Kuwait,Asia,4.1,31430,2977.5
+Kyrgyz Republic,Europe,6.2,1130,286.6
+Lao PDR,Asia,6.9,2270,165.8
+Latvia,Europe,1.9,14740,1429.3
+Lebanon,Asia,6.1,8310,1117.3
+Lesotho,Africa,2.2,1280,251.1
+Liberia,Africa,4.7,380,127.8
+Lithuania,Europe,2.8,15200,1874.6
+Luxembourg,Europe,0.6,70260,6381.5
+"Macedonia, FYR",Europe,2.1,4880,857.1
+Madagascar,Africa,25.6,400,76.7
+Malawi,Africa,18.6,320,108.2
+Malaysia,Asia,31.6,9650,1063.9
+Maldives,Asia,0.4,9570,1513.9
+Mali,Asia,18.5,770,118.5
+Malta,Europe,0.5,23810,3470.9
+Marshall Islands,Oceania,0.1,4800,862.8
+Mauritania,Africa,4.4,1100,177.1
+Mauritius,Africa,1.3,10140,1098.6
+Mexico,North America,129.2,8610,1008.7
+"Micronesia, Fed. Sts.",Oceania,0.1,3590,457.9
+Moldova,Europe,3.5,2180,515.3
+Mongolia,Asia,3.1,3290,469.6
+Montenegro,Europe,0.6,7350,957
+Morocco,Africa,35.7,2860,435.3
+Mozambique,Africa,29.7,420,63.7
+Myanmar,Asia,53.4,1190,267.2
+Namibia,Africa,2.5,4600,942.5
+Nepal,Asia,29.3,790,150.6
+Netherlands,Europe,17.1,46180,5313.2
+New Zealand,Oceania,4.8,38970,3530.1
+Nicaragua,North America,6.2,2130,406
+Niger,Africa,21.5,360,68.5
+Nigeria,Africa,190.9,2080,215.2
+Norway,Europe,5.3,75990,6221.6
+Oman,Asia,4.6,14440,1635.9
+Pakistan,Asia,197,1580,134.4
+Palau,Oceania,0,12530,1611.5
+Panama,North America,4.1,13100,1542.8
+Papua New Guinea,Oceania,8.3,2410,98.6
+Paraguay,South America,6.8,3920,724.3
+Peru,South America,32.2,5970,671
+Philippines,Asia,104.9,3660,322.8
+Poland,Europe,38,12710,1704.2
+Portugal,Europe,10.3,19820,2661.4
+Qatar,Asia,2.6,61070,3900.3
+Romania,Europe,19.6,9970,1090.4
+Russian Federation,Europe,144.5,9230,1414
+Rwanda,Africa,12.2,720,143.2
+Samoa,Oceania,0.2,4100,335.9
+Sao Tome and Principe,Africa,0.2,1770,308.4
+Saudi Arabia,Asia,32.9,20080,3121.3
+Senegal,Africa,15.9,950,97.1
+Serbia,Europe,7,5180,1323.7
+Seychelles,Asia,0.1,14180,867.3
+Sierra Leone,Africa,7.6,510,256.3
+Singapore,Asia,5.6,54530,3681.3
+Slovak Republic,Europe,5.4,16610,2062
+Slovenia,Europe,2.1,22000,2733.8
+Solomon Islands,Oceania,0.6,1920,173
+South Africa,Africa,56.7,5430,1086.4
+South Sudan,Africa,12.6,390,71.2
+Spain,Europe,46.6,27180,3182.5
+Sri Lanka,Asia,21.4,3840,353.1
+St. Kitts and Nevis,North America,0.1,16030,1442.7
+St. Lucia,North America,0.2,8780,681.4
+St. Vincent and the Grenadines,North America,0.1,6990,469.5
+Sudan,Africa,40.5,2380,277
+Suriname,South America,0.6,6020,1016.9
+Sweden,Europe,10.1,52590,5298.6
+Switzerland,Europe,8.5,80560,7582.6
+Tajikistan,Asia,8.9,990,192.7
+Tanzania,Africa,57.3,910,96.5
+Thailand,Asia,69,5960,610.2
+Timor-Leste,Asia,1.3,1790,141.3
+Togo,Africa,7.8,610,95.6
+Tonga,Africa,0.1,4010,323.8
+Trinidad and Tobago,North America,1.4,15350,2204.1
+Tunisia,Africa,11.5,3500,774.1
+Turkey,Asia,80.7,10930,996
+Turkmenistan,Asia,5.8,6650,1003.8
+Tuvalu,Oceania,0,4970,523.3
+Uganda,Africa,42.9,600,138.5
+Ukraine,Europe,44.8,2390,469.4
+United Arab Emirates,Asia,9.4,39130,2425.8
+United Kingdom,Europe,66,40530,4144.6
+United States,South America,325.7,58270,9535.9
+Uruguay,South America,3.5,15250,1747.8
+Uzbekistan,Asia,32.4,1980,382.8
+Vanuatu,Oceania,0.3,2920,106.1
+Vietnam,Asia,95.5,2170,334.3
+"Yemen, Rep.",Asia,28.3,1030,144.5
+Zambia,Africa,17.1,1300,203
+Zimbabwe,Africa,16.5,910,182.3
