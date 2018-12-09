@@ -127,4 +127,32 @@ d3.json('./data.json').then((data) => {
 
 d3.csv('./laws.csv').then((data) => {
 	console.log(data)
+	const tableHolder = d3.select('#chart-3')
+	const table = tableHolder.append('table')
+
+	var columns = ['Are there legislative quotas for women in the parliament?','Is there any law mandating women non-discrimination in workplaces?','Is there domestic violence legislation?']
+
+	thead.append('tr')
+	  .selectAll('th')
+	    .data(columns)
+	    .enter()
+	  .append('th')
+	    .text(function (d) { return d })
+
+	var rows = tbody.selectAll('tr')
+	    .data(data)
+	    .enter() 
+	  .append('tr')
+
+	var cells = rows.selectAll('td')
+	    .data(function(row) {
+	    	return columns.map(function (column) {
+	    		return { column: column, value: row[column] }
+	      })
+      })
+      .enter()
+    .append('td')
+      .text(function (d) { return d.value })
+
+  return table;
 })
