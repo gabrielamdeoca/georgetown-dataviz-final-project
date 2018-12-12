@@ -125,19 +125,31 @@ d3.json('./data.json').then((data) => {
 		})
 })
 
-d3.csv('./laws.csv').then((data) => {
+
+d3.json('./laws.json').then((data) => {
+
 	console.log(data)
+
 	const tableHolder = d3.select('#chart-3')
 	const table = tableHolder.append('table')
+	const thead = table.append('thead')
+	const tbody = table.append('tbody')
 
-	var columns = ['Are there legislative quotas for women in the parliament?','Is there any law mandating women non-discrimination in workplaces?','Is there domestic violence legislation?']
+	var columns = ['country','gender employment nondiscrimination','domestic violence legislation','legislative quotas']
+
+	let columnsNiceName = {
+		'country' : 'Country',
+		'gender employment nondiscrimination' : 'Law preventing gender discrimation at work?',
+		'domestic violence legislation': 'Domestic violence legislation?',
+		'legislative quotas': "Legislate quota?",
+	}
 
 	thead.append('tr')
 	  .selectAll('th')
 	    .data(columns)
 	    .enter()
 	  .append('th')
-	    .text(function (d) { return d })
+	    .text(function (d) { return columnsNiceName[d] })
 
 	var rows = tbody.selectAll('tr')
 	    .data(data)
@@ -152,7 +164,26 @@ d3.csv('./laws.csv').then((data) => {
       })
       .enter()
     .append('td')
-      .text(function (d) { return d.value })
+      .text(function (d) {
+      	return d.value
+      })
+      .attr('class', (d) => {
+      	if ( d.column === 'gender employment nondiscrimination') {
+      		if (d.value === 'No') {
+      			return 'highlight'
+      		} 
+      	} else if (d.column === 'domestic violence legislation') {
+      		 if (d.value === 'No') {
+      			return 'highlight'
+      		} 
+      	} else if (d.column === 'legislative quotas') {
+      		if (d.value !== 'No quota') {
+      			return 'highlight'
+      		}
+      	} else {
+      		return ''
+      	}
+      })
 
   return table;
 })
